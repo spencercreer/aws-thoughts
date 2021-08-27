@@ -1,4 +1,4 @@
-# aws-thoughts
+# Thoughts in the Cloud
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
